@@ -42,4 +42,4 @@ sudo apt install git libasound2 libcurl4 libgbm1 libgcrypt20 libgtk-3-0 libnotif
 
 The Linux version does not currently automatically update so you will need to
 repeat these steps to upgrade to future releases. -->
-Currently, to get binaries based on code by the Atom community, binaries can be downloaded from the [Azure Pipeline](https://dev.azure.com/atomcommunity/atomcommunity/_build/latest?definitionId=10&branchName=master). From this pipeline, the latest run can be selected. From there, the `8 published` link should be selected to download the files.
+Currently, to get binaries based on code by the Atom community, binaries can be downloaded from the [Azure Pipeline](https://dev.azure.com/atomcommunity/atomcommunity/_build/results?buildId=1337&view=artifacts&pathAsName=false)
